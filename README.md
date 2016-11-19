@@ -8,8 +8,6 @@ local chapter we follow the Papers We Love [Code of Conduct](https://github.com/
 Papers We Love community in St. Petersburg, Russia. Regular montlhy meetups on
 our favourite Computer Science topics.
 
-{Chapter information: who, what, where, when, why}
-
 ### Contact
 
 - [@PapersWeLoveSpb](https://twitter.com/paperswelovespb)
